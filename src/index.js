@@ -38,3 +38,4 @@ fastify.get("/users", (request, reply) =>{
 })
 
 export default fastify;
+
